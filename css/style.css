@@ -1,0 +1,58 @@
+/************************************************/
+/*       ESTILO BIKEHUB FT BOOSTSTRAP           */
+/*                                              */
+/*        FRANCISCO ROMERO ZARCO                */
+/*                                              */
+/*                                              */
+/************************************************/
+
+/*****************GENERAL************************/
+.w-40{
+    width: 40px;
+}
+
+.bg-bikehub{
+    background-color: #ffa500;
+}
+
+.text-bike{
+    color: #ffa500;
+}
+.navbar-toggler-icon{
+    color: #ffa500;
+}
+a .fa-motorcycle {
+    color: #ffa500;
+}
+.fa-motorcycle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 1.5em !important;
+    z-index: 98;
+}
+#navicon{
+    color: #ffa500;
+}
+
+
+/***************HERO********************/
+#hero{
+    background-image: url(../imagenes/hero\ section\ v2.jpg);
+    background-size: cover;
+    border-radius: 10px
+}
+/***************FONTS******************/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); /* font-family: 'Bebas Neue', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); /* font-family: 'Montserrat', sans-serif;*/
+
+#titulos{
+    font-family:'Bebas Neue', sans-serif;
+}
+#texto{
+    font-family:'Montserrat', sans-serif;
+}
+/******************TEXTOS**************************/
+#navbar-link{
+    color: #ffa500;
+}
