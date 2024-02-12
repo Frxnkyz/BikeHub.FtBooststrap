@@ -60,6 +60,6 @@ plantilla de booststrap, para que puedan entrar a un canal de telegram donde se 
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li> Todo lo utilizado de booststrap es sacado de la página de booststrap </li>
+  <li> Todo lo utilizado es sacado de la página oficial de booststrap </li>
   <li>He reuitilizado la estructura de la anterior página web para hacer la seccion de Creadaores de Contenido </li>
 </ul>
